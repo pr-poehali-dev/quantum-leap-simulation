@@ -5,8 +5,6 @@ export const sections = [
     id: 'hero',
     subtitle: <Badge variant="outline" className="text-white border-white">Собственное производство</Badge>,
     title: "Комплексные решения по благоустройству общественных пространств",
-    showButton: true,
-    buttonText: 'Получить расчёт'
   },
   {
     id: 'about',
